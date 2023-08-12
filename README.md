@@ -1,0 +1,2 @@
+# AI_HEART_SEGMENTER
+This repo is a AI HEART SEGMENTER FOR 3D MRI Cardiac Imaging 
