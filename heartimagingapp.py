@@ -64,7 +64,7 @@ def imageInput(src):
                   
 def main():
     
-    #st.image("logo.JPG", width = 500)
+    st.image("logo.JPG", width = 500)
     st.title("AI App for 3D Heart MRI Imaging Segmenter")
     st.header("👈🏽 Select the Image Source options")
     st.sidebar.title('⚙️Options')
